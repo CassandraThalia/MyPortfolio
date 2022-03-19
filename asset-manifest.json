@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cassandracurtis.ca/static/css/main.6bbdb38a.css",
+    "main.js": "/cassandracurtis.ca/static/js/main.86b13d9d.js",
+    "static/media/map2.png": "/cassandracurtis.ca/static/media/map2.93b4581bf9791597c9e4.png",
+    "static/media/map3.png": "/cassandracurtis.ca/static/media/map3.93b4581bf9791597c9e4.png",
+    "static/media/at1.png": "/cassandracurtis.ca/static/media/at1.17564e64f43e7ad188d8.png",
+    "static/media/lobster.jpg": "/cassandracurtis.ca/static/media/lobster.5f7d5bc31e6ae0cd2783.jpg",
+    "static/media/me.png": "/cassandracurtis.ca/static/media/me.31ecec65b808143d202c.png",
+    "static/media/cv.pdf": "/cassandracurtis.ca/static/media/cv.679e64fe506d9e1e21b8.pdf",
+    "index.html": "/cassandracurtis.ca/index.html",
+    "main.6bbdb38a.css.map": "/cassandracurtis.ca/static/css/main.6bbdb38a.css.map",
+    "main.86b13d9d.js.map": "/cassandracurtis.ca/static/js/main.86b13d9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bbdb38a.css",
+    "static/js/main.86b13d9d.js"
+  ]
+}
