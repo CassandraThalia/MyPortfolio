@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.1b4af8c6.css",
-    "main.js": "/static/js/main.61c8aa5e.js",
+    "main.js": "/static/js/main.7290ae86.js",
     "static/media/at1.png": "/static/media/at1.17564e64f43e7ad188d8.png",
     "static/media/map.png": "/static/media/map.343a9f18247fb1c44f20.png",
     "static/media/lobster.jpg": "/static/media/lobster.5f7d5bc31e6ae0cd2783.jpg",
+    "static/media/lori-website.PNG": "/static/media/lori-website.4b56d5a17cb198f5ce9d.PNG",
     "static/media/me.png": "/static/media/me.31ecec65b808143d202c.png",
     "static/media/cv.pdf": "/static/media/cv.bebe7ae172d8195dd147.pdf",
     "static/media/gh.png": "/static/media/gh.3884dc324f34df6e1ee8.png",
     "index.html": "/index.html",
     "main.1b4af8c6.css.map": "/static/css/main.1b4af8c6.css.map",
-    "main.61c8aa5e.js.map": "/static/js/main.61c8aa5e.js.map"
+    "main.7290ae86.js.map": "/static/js/main.7290ae86.js.map"
   },
   "entrypoints": [
     "static/css/main.1b4af8c6.css",
-    "static/js/main.61c8aa5e.js"
+    "static/js/main.7290ae86.js"
   ]
 }
